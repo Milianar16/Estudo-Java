@@ -1,4 +1,4 @@
-import java.math.MathContext;
+package aulas;
 
 public class Variaveis {
     //Execução do nosso programa JAVA
